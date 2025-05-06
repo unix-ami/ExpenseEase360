@@ -1,6 +1,6 @@
 <div align="center"> 
  
-![banner](https://github.qmul.ac.uk/ec23161/ExpenseEase360/blob/main/banner.png)
+![banner](https://github.com/unix-ami/ExpenseEase360/blob/main/banner.png)
 
 #### A web application that enables employees to submit and manage expense claims for business-related expenses, streamlining the reimbursement process and providing an easy way to track claims.
 </div>
