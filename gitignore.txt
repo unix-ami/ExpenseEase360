@@ -1,0 +1,58 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment folder
+venv/
+env/
+
+# Django migration files (if you want to avoid tracking them initially)
+*.sqlite3
+db.sqlite3
+*.log
+*.pot
+
+# Ignore compiled translation files
+*.mo
+
+# Local settings (if you have them)
+local_settings.py
+
+# Environment variables
+.env
+*.env
+
+# Private keys
+*.pem
+
+# Static files (if managed by collectstatic)
+staticfiles/
+static/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# JetBrains
+*.iml
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# Ignore Git merge conflict files
+*.orig
+
+# ignore Python compiled files
+*.pyc 
+
+# ignore Desktop Services Store
+*.DS_Store
